@@ -1,18 +1,16 @@
 # BlackRoad-README
 
-**Documentation** — Part of the BlackRoad OS ecosystem.
+**BlackRoad documentation and README templates. Pave Tomorrow.**
 
-> 18 orgs · 20 domains · 200 agents · Sovereign infrastructure
+> Remember the Road. Pave Tomorrow.
+
+BlackRoad OS, Inc. — Delaware C-Corp, incorporated November 17, 2025.
 
 4 public repositories | [blackroad.io](https://blackroad.io) | [BlackRoad-OS-Inc](https://github.com/BlackRoad-OS-Inc)
 
-## Key Repositories
-
-- [.github](https://github.com/BlackRoad-README/.github) — BlackRoad-README org profile[0:60]
-- [blackroad-readme.github.io](https://github.com/BlackRoad-README/blackroad-readme.github.io) — BlackRoad-README — BlackRoad OS[0:60]
-- [RoadCode](https://github.com/BlackRoad-README/RoadCode) — RoadCode monorepo for BlackRoad-README[0:60]
-- [README](https://github.com/BlackRoad-README/README) — BlackRoad OS — The Master Document. 42 sections. Everything we are.[0:60]
+18 orgs · 20 domains · 200 agents · 2,156 repos · Sovereign infrastructure
 
 ---
 
-Proprietary — BlackRoad OS, Inc. All rights reserved.
+Proprietary — BlackRoad OS, Inc. All rights reserved. Incorporated 2025.
+
