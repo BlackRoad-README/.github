@@ -1,40 +1,25 @@
-# BlackRoad OS
+# BlackRoad README
 
-**Build anything. Remember everything.** The sovereign AI operating system.
+> *The master map of the highway.*
 
-18 products. 27 AI agents. 5 Raspberry Pis. One highway.
+Master index and overview of the entire BlackRoad OS ecosystem — 43 orgs, 1,200+ repos, 18 products, 27 agents.
 
-## Products
+## The Orgs
+| Org | Role |
+|---|---|
+| [BlackRoad-Products](https://github.com/BlackRoad-Products) | 18 live products |
+| [BlackRoad-Forge](https://github.com/BlackRoad-Forge) | 485+ experiments |
+| [BlackRoad-OS-Inc](https://github.com/BlackRoad-OS-Inc) | Corporate monorepo |
+| [BlackRoad-AI](https://github.com/BlackRoad-AI) | AI + model layer |
+| [BlackRoad-Agents](https://github.com/BlackRoad-Agents) | 27 Roadie agents |
+| [BlackRoad-Education](https://github.com/BlackRoad-Education) | K-12 curriculum |
+| [BlackRoad-Hardware](https://github.com/BlackRoad-Hardware) | Pi fleet + Hailo-8 |
+| [BlackRoad-Network](https://github.com/BlackRoad-Network) | Mesh networking |
+| [BlackRoad-Security](https://github.com/BlackRoad-Security) | Zero-trust auth |
+| [BlackRoad-Studio](https://github.com/BlackRoad-Studio) | Design + brand |
+| + 33 more | Various specializations |
 
-| Product | URL | What |
-|---------|-----|------|
-| BlackRoad OS | [os.blackroad.io](https://os.blackroad.io) | Browser desktop shell |
-| RoadTrip | [roadtrip.blackroad.io](https://roadtrip.blackroad.io) | 27-agent convoy chat |
-| Roadie | [tutor.blackroad.io](https://tutor.blackroad.io) | AI homework tutor |
-| RoadChat | [chat.blackroad.io](https://chat.blackroad.io) | Direct AI chat |
-| RoadView | [search.blackroad.io](https://search.blackroad.io) | Search engine |
-| BackRoad | [social.blackroad.io](https://social.blackroad.io) | Social feed |
-| RoadCode | [roadcode.blackroad.io](https://roadcode.blackroad.io) | Code editor |
-| RoadWork | [roadwork.blackroad.io](https://roadwork.blackroad.io) | Business tools |
-| CarKeys | [carkeys.blackroad.io](https://carkeys.blackroad.io) | Auth & vault |
-| RoadChain | [roadchain.blackroad.io](https://roadchain.blackroad.io) | Blockchain ledger |
-| RoadCoin | [roadcoin.blackroad.io](https://roadcoin.blackroad.io) | Token economy |
-| RoadBook | [roadbook.blackroad.io](https://roadbook.blackroad.io) | Publisher |
-| RoadWorld | [roadworld.blackroad.io](https://roadworld.blackroad.io) | Game engine |
-| OfficeRoad | [officeroad.blackroad.io](https://officeroad.blackroad.io) | Animated AI office |
-| CarPool | [carpool.blackroad.io](https://carpool.blackroad.io) | AI model router |
-| BlackBoard | [blackboard.blackroad.io](https://blackboard.blackroad.io) | Analytics |
-| OneWay | [oneway.blackroad.io](https://oneway.blackroad.io) | Data export |
-| RoadSide | [roadside.blackroad.io](https://roadside.blackroad.io) | Onboarding |
-
-## The Roadies — 27 AI Agents
-
-Roadie, Lucidia, Cecilia, Octavia, Olympia, Silas, Sebastian, Calliope, Aria, Thalia, Lyra, Sapphira, Seraphina, Alexandria, Theodosia, Sophia, Gematria, Portia, Atticus, Cicero, Valeria, Alice, Celeste, Elias, Ophelia, Gaia, Anastasia
-
-Talk to them at [roadtrip.blackroad.io](https://roadtrip.blackroad.io)
+→ **[os.blackroad.io](https://os.blackroad.io)**
 
 ---
-
-BlackRoad OS, Inc. Founded November 17, 2025. Delaware C-Corp.
-
-Remember the Road. Pave Tomorrow.
+*Remember the Road. Pave Tomorrow.* 🖤🛣️
